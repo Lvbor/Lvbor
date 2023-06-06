@@ -1,5 +1,5 @@
 # Hello!
-#### I am currently pursuing a degree in Electronics and Telecommunication 
+#### I am currently studying electronics and telecommunications at the Military University of Technology in Warsaw. 
 ## 💻 Tech Stack:
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
