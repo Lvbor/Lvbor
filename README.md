@@ -31,5 +31,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lvbor/) 
-  
 
+## Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lvbor&langs_count=5&theme=synthwave)
