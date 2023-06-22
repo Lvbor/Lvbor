@@ -29,6 +29,19 @@
 ### Boards
 ![Arduino](https://img.shields.io/badge/arduino-%2300979C.svg?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/esp32-000000?style=for-the-badge)
 
+## Projects:
+
+### AudioFlow
+- *GitHub Repository:* https://github.com/Lvbor/AudioFlow
+- *Tech Stack:*
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SDL2](https://img.shields.io/badge/SDL2-173556?style=for-the-badge) ![TinyFileDialogs](https://img.shields.io/badge/tiny_file_dialogs-444444?style=for-the-badge) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge) ![G++](https://img.shields.io/badge/g++-CD853F?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge) ![Makefile](https://img.shields.io/badge/makefile-ffa500?style=for-the-badge) 
+
+#### Description
+AudioFlow is a simple audio player written in C++ using the SDL2 library. It allows you to play and manage a queue of music files.
+#### Demo
+![AudioFlow Screenshot](https://i.imgur.com/KGWa0Xe.png)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lvbor/) 
 
