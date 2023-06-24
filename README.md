@@ -104,6 +104,5 @@ The RGB lamp creates an ambient light source for homes that enhances the environ
 </details>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lvbor/) 
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lvbor/) ![Discord](https://img.shields.io/badge/.crackthesky-7289d9?style=for-the-badge&logo=discord&logoColor=white) ![G-Mail](https://img.shields.io/badge/luborwitkowski123@gmail.com-c71610?style=for-the-badge&logo=gmail&logoColor=white)
 
