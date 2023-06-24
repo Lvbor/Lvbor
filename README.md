@@ -42,6 +42,27 @@ AudioFlow is a simple audio player written in C++ using the SDL2 library. It all
 #### Demo
 ![AudioFlow Screenshot](https://i.imgur.com/KGWa0Xe.png)
 
+### Artivale
+- *GitHub Repository:* Private ([assets](https://rafaelmatos.itch.io/epic-rpg-world-pack-grass-land) protected by copyright)
+- *Tech Stack:*
+
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Fleks](https://img.shields.io/badge/Fleks-999900?style=for-the-badge) ![LibGDX](https://img.shields.io/badge/libgdx-FF0000?style=for-the-badge) ![LibKTX](https://img.shields.io/badge/libktx-007ACC?style=for-the-badge)  ![BOX2D LIGHTS](https://img.shields.io/badge/BOX2D_LIGHTS-238456?style=for-the-badge)   ![Scene2D](https://img.shields.io/badge/scene2d-031299?style=for-the-badge) ![GDX AI](https://img.shields.io/badge/gdx_ai-772248?style=for-the-badge)  ![Tiled](https://img.shields.io/badge/tiled-0312FF?style=for-the-badge) ![IntellijIDEA](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23FF0000.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+#### Members
+
+- [Lvbor (me)](https://github.com/Lvbor) - Responsible for game engine development
+- [PTyszka](https://github.com/PTyszka) - Implemented AI algorithms for the mobs, created enemy behaviors
+- [bartkepl](https://github.com/bartkepl) - Designed and built game map using the Tiled editor
+- [iikolodziej](https://github.com/iikolodziej) - Implemented user interface
+
+#### Description
+
+Artivale is an RPG game created as a project from the subject "Mobile Application Programming". The game was brought to life using a combination of technologies such as Kotlin, Fleks, LibGDX, LibKTX, BOX2D LIGHTS, Scene2D, GDX AI, and Tiled, ensuring a solid foundation for immersive gameplay.
+
+#### Demo
+![Artivale Screenshot](https://i.imgur.com/TA4onxM.png)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lvbor/) 
 
