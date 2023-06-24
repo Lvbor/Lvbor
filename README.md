@@ -1,6 +1,6 @@
 # Hello!
 #### I am currently studying electronics and telecommunications at the Military University of Technology in Warsaw. 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -29,9 +29,10 @@
 ### Boards
 ![Arduino](https://img.shields.io/badge/arduino-%2300979C.svg?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/esp32-000000?style=for-the-badge)
 
-## Projects:
+## Projects
+<details>
+<summary><h3>AudioFlow</h3></summary>
 
-### AudioFlow
 - *GitHub Repository:* https://github.com/Lvbor/AudioFlow
 - *Tech Stack:*
 
@@ -42,9 +43,13 @@ AudioFlow is a simple audio player written in C++ using the SDL2 library. It all
 #### Demo
 ![AudioFlow Screenshot](https://i.imgur.com/KGWa0Xe.png)
 
-### Artivale
-- *GitHub Repository:* Private ([assets](https://rafaelmatos.itch.io/epic-rpg-world-pack-grass-land) protected by copyright)
-- *Tech Stack:*
+</details>
+
+<details>
+<summary><h3>Artivale</h3></summary>
+  
+* GitHub Repository: Private ([assets](https://rafaelmatos.itch.io/epic-rpg-world-pack-grass-land) protected by copyright)
+* Tech Stack:
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Fleks](https://img.shields.io/badge/Fleks-999900?style=for-the-badge) ![LibGDX](https://img.shields.io/badge/libgdx-FF0000?style=for-the-badge) ![LibKTX](https://img.shields.io/badge/libktx-007ACC?style=for-the-badge)  ![BOX2D LIGHTS](https://img.shields.io/badge/BOX2D_LIGHTS-238456?style=for-the-badge)   ![Scene2D](https://img.shields.io/badge/scene2d-031299?style=for-the-badge) ![GDX AI](https://img.shields.io/badge/gdx_ai-772248?style=for-the-badge)  ![Tiled](https://img.shields.io/badge/tiled-0312FF?style=for-the-badge) ![IntellijIDEA](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23FF0000.svg?style=for-the-badge&logo=git&logoColor=white) 
 
@@ -57,10 +62,12 @@ AudioFlow is a simple audio player written in C++ using the SDL2 library. It all
 
 #### Description
 
-Artivale is an RPG game created as a project from the subject "Mobile Application Programming". The game was brought to life using a combination of technologies such as Kotlin, Fleks, LibGDX, LibKTX, BOX2D LIGHTS, Scene2D, GDX AI, and Tiled, ensuring a solid foundation for immersive gameplay.
+Artivale is an RPG game created as a project from the subject "Mobile Application Programming". The game was brought to life using a combination of technologies such as Kotlin, Fleks, LibGDX, LibKTX, Box2DLights, Scene2D, GDX AI, and Tiled, ensuring a solid foundation for immersive gameplay.
 
 #### Demo
 ![Artivale Screenshot](https://i.imgur.com/TA4onxM.png)
+
+</details>
 
 
 ## 🌐 Socials:
