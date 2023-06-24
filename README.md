@@ -86,6 +86,23 @@ CPU Usage Tracker is an application that monitors the CPU usage of a system. It 
 
 </details>
 
+<details>
+<summary><h3>Sound-Sensitive RGB Lamp</h3></summary>
+
+- *GitHub Repository:* https://github.com/Lvbor/Sound_sensitive_RGB_lamp
+- *Tech Stack:*
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastLED](https://img.shields.io/badge/fastled-870099?style=for-the-badge) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge)  ![Git](https://img.shields.io/badge/git-%23FF0000.svg?style=for-the-badge&logo=git&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-ebab34?style=for-the-badge) ![ESP32](https://img.shields.io/badge/esp32-000000?style=for-the-badge)
+ 
+#### Description
+
+The RGB lamp creates an ambient light source for homes that enhances the environment and adds an extra level of interactivity and excitement through sound-reactive technology.
+
+#### Demo
+![RGB Lamp Photo](https://i.imgur.com/qZDvhqL.jpg)
+
+</details>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lvbor/) 
 
