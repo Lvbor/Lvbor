@@ -69,6 +69,22 @@ Artivale is an RPG game created as a project from the subject "Mobile Applicatio
 
 </details>
 
+<details>
+<summary><h3>CPU Usage Tracker</h3></summary>
+
+- *GitHub Repository:* https://github.com/Lvbor/cpu-usage-tracker
+- *Tech Stack:*
+  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge)  ![Clang](https://img.shields.io/badge/clang-2B7489?style=for-the-badge) ![GCC](https://img.shields.io/badge/gcc-CD853F?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge) ![PThread](https://img.shields.io/badge/pthread-222222?style=for-the-badge) ![Valgrind](https://img.shields.io/badge/Valgrind-008000?style=for-the-badge) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+#### Description
+
+CPU Usage Tracker is an application that monitors the CPU usage of a system. It consists of multiple threads responsible for reading CPU data, analyzing the data, and logging the results. The application uses a queue to store CPU usage data and handles graceful termination through signal handlers.
+
+#### Demo
+![CPU Usage Tracker Screenshot](https://i.imgur.com/BlQu2fu.png)
+
+</details>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lvbor/) 
