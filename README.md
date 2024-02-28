@@ -30,8 +30,7 @@
 ![Arduino](https://img.shields.io/badge/arduino-%2300979C.svg?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/esp32-000000?style=for-the-badge)
 
 ## Projects
-<details>
-<summary><h3>AudioFlow</h3></summary>
+### AudioFlow
 
 - *GitHub Repository:* https://github.com/Lvbor/AudioFlow
 - *Tech Stack:*
@@ -43,10 +42,7 @@ AudioFlow is a simple audio player written in C++ using the SDL2 library. It all
 #### Demo
 ![AudioFlow Screenshot](https://i.imgur.com/KGWa0Xe.png)
 
-</details>
-
-<details>
-<summary><h3>Artivale</h3></summary>
+### Artivale
   
 * GitHub Repository: Private ([assets](https://rafaelmatos.itch.io/epic-rpg-world-pack-grass-land) protected by copyright)
 * Tech Stack:
@@ -67,10 +63,7 @@ Artivale is an RPG game created as a project from the subject "Mobile Applicatio
 #### Demo
 ![Artivale Screenshot](https://i.imgur.com/TA4onxM.png)
 
-</details>
-
-<details>
-<summary><h3>CPU Usage Tracker</h3></summary>
+### CPU Usage Tracker
 
 - *GitHub Repository:* https://github.com/Lvbor/cpu-usage-tracker
 - *Tech Stack:*
@@ -84,10 +77,7 @@ CPU Usage Tracker is an application that monitors the CPU usage of a system. It 
 #### Demo
 ![CPU Usage Tracker Screenshot](https://i.imgur.com/BlQu2fu.png)
 
-</details>
-
-<details>
-<summary><h3>Sound-Sensitive RGB Lamp</h3></summary>
+### Sound-Sensitive RGB Lamp
 
 - *GitHub Repository:* https://github.com/Lvbor/Sound_sensitive_RGB_lamp
 - *Tech Stack:*
@@ -100,8 +90,6 @@ The RGB lamp creates an ambient light source for homes that enhances the environ
 
 #### Demo
 ![RGB Lamp Photo](https://i.imgur.com/qZDvhqL.jpg)
-
-</details>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lvbor/) ![Discord](https://img.shields.io/badge/lvbor-7289d9?style=for-the-badge&logo=discord&logoColor=white) ![G-Mail](https://img.shields.io/badge/luborwitkowski123@gmail.com-c71610?style=for-the-badge&logo=gmail&logoColor=white)
